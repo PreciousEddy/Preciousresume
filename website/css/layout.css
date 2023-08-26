@@ -73,7 +73,7 @@ header .banner-text h3 {
 }
 header .banner-text h3 span,
 header .banner-text h3 a {
-   color: #ff6200;
+   color: #ff0000;
 }
 header .banner-text hr {
    width: 60%;
@@ -184,7 +184,7 @@ ul#nav li a {
 }
 
 ul#nav li a:active { background-color: transparent !important; }
-ul#nav li.current a { color: #F06000; }
+ul#nav li.current a { color: #ff0000; }
 
 
 /* ------------------------------------------------------------------ */
@@ -247,7 +247,7 @@ ul#nav li.current a { color: #F06000; }
    overflow: hidden;
 }
 
-#resume a, #resume a:visited  { color: #ff5500; }
+#resume a, #resume a:visited  { color: #ff0000; }
 #resume a:hover, #resume a:focus { color: #313131; }
 
 #resume h1 {
@@ -256,7 +256,7 @@ ul#nav li.current a { color: #F06000; }
    letter-spacing: 1px;
 }
 #resume h1 span {
-   border-bottom: 3px solid #ff5500;
+   border-bottom: 3px solid #ff0000;
    padding-bottom: 6px;
 }
 #resume h3 {
